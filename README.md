@@ -10,10 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=codexshivam&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="codexshivam" />
 
-[![GitHub followers](https://img.shields.io/github/followers/codexshivam?label=Followers&style=for-the-badge&color=00D4FF)](https://github.com/codexshivam)
-[![GitHub stars](https://img.shields.io/github/stars/codexshivam?label=Stars&style=for-the-badge&color=FFD700)](https://github.com/codexshivam)
-[![GitHub forks](https://img.shields.io/github/forks/codexshivam?label=Forks&style=for-the-badge&color=00FF00)](https://github.com/codexshivam)
-
 </div>
 
 ---
