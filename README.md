@@ -1,16 +1,10 @@
-<div align="center">
-
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm **Shivam Yadav** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### 🎓 **Computer Science Engineering Student** | **Full-Stack Developer** | **AI/ML Enthusiast**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Creating+Amazing+User+Experiences;Mastering+Full-Stack+Development;Exploring+AI+and+Machine+Learning;Passionate+About+Innovation)](https://git.io/typing-svg)
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=false&vCenter=true&width=600&lines=Building+the+Future+with+Code;Creating+Amazing+User+Experiences;Mastering+Full-Stack+Development;Exploring+AI+and+Machine+Learning;Passionate+About+Innovation)](https://git.io/typing-svg)
 
 ---
-
-</div>
 
 ## 🚀 **About Me**
 
@@ -92,7 +86,7 @@ class ShivamYadav {
 
 ## 📊 **GitHub Statistics**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codexshivam&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codexshivam&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
 
 ---
 
