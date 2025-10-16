@@ -3,8 +3,9 @@
 ###
 ### 🎓 **Computer Science Engineering Student** | **Full-Stack Developer** | **AI/ML Enthusiast**
 
+<div align=center>
 <img align=center src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=false&vCenter=true&width=600&lines=Building+the+Future+with+Code;Creating+Amazing+User+Experiences;Mastering+Full-Stack+Development;Exploring+AI+and+Machine+Learning;Passionate+About+Innovation)](https://git.io/typing-svg)" />
-
+</div>
 <p>  </p>  
 
 
