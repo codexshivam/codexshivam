@@ -4,7 +4,19 @@
 
 ### 🎓 **Computer Science Engineering Student** | **Full-Stack Developer** | **AI/ML Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Creating+Amazing+User+Experiences;Mastering+Full-Stack+Development;Exploring+AI+and+Machine+Learning;Passionate+About+Innovation)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Creating+Amazing+User+Experiences;Mastering+Full-Stack+Development;Exploring+AI+and+Machine+Learning;Passionate+About+Innovation)](https://git.io/typing-svg)
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+</div>
 
 ---
 
@@ -16,7 +28,13 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+</div>
 
 </div>
 
@@ -112,20 +130,12 @@ class ShivamYadav {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🏆 **Profile Trophies**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codexshivam&theme=radical&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 **GitHub Stats**
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codexshivam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexshivam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
-
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
 </div>
 
 ### 🔥 **Streak Stats**
@@ -133,14 +143,6 @@ class ShivamYadav {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexshivam&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
-
-</div>
-
-### 📊 **Activity Graph**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codexshivam&theme=radical&hide_border=true&custom_title=Shivam's%20Contribution%20Graph" alt="Activity Graph" width="90%" />
 
 </div>
 
@@ -152,7 +154,13 @@ class ShivamYadav {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+</div>
 
 </div>
 
@@ -206,7 +214,13 @@ class ShivamYadav {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+</div>
 
 </div>
 
@@ -220,11 +234,11 @@ graph LR
     D --> E[☁️ Cloud Architecture]
     E --> A
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
+    style A fill:#8B5CF6
+    style B fill:#06B6D4
+    style C fill:#10B981
+    style D fill:#F59E0B
+    style E fill:#EF4444
 ```
 
 ### 📚 **Learning Path**
@@ -241,7 +255,13 @@ graph LR
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+</div>
 
 </div>
 
@@ -268,32 +288,6 @@ graph LR
 
 ---
 
-## 📈 **Coding Activity**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📊 **Weekly Development Breakdown**
-
-```text
-Flutter/Dart     ████████████████████ 85%  ████████████████████
-Python           ████████████████     70%  ████████████████
-JavaScript/TS    ██████████████       60%  ██████████████
-React/Node.js    ████████████         50%  ████████████
-AI/ML            ██████████           40%  ██████████
-Cloud/DevOps     ████████             35%  ████████
-```
-
-### 🎯 **2024 Goals**
-
-- [ ] **Master Advanced Flutter** - Complex animations & custom widgets
-- [ ] **Deep Dive into AI/ML** - Build production-ready ML models
-- [ ] **Cloud Architecture** - Design scalable distributed systems
-- [ ] **Open Source** - Contribute to major Flutter/Python projects
-- [ ] **Technical Writing** - Share knowledge through blogs & tutorials
-
-</div>
 
 ---
 
@@ -301,7 +295,13 @@ Cloud/DevOps     ████████             35%  ███████
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" height="60">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60">
+</div>
 
 ### 🌐 **Social Links**
 
@@ -320,81 +320,9 @@ Cloud/DevOps     ████████             35%  ███████
 
 ---
 
-## 💡 **Fun Facts**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🎂 **Personal Info**
-
-- **🎂 Birthday**: August 21
-- **🇳🇵 Location**: Nepal
-- **🎓 Education**: Chandigarh University (CSE)
-- **☕ Coffee**: Essential for coding marathons
-- **🎵 Music**: Coding with Spotify in the background
-- **🌙 Sleep**: "I'll fix this bug first" (famous last words)
-
-### 🎯 **Coding Philosophy**
-
-> *"Code is poetry written in logic, and every bug is a lesson waiting to be learned."*
-
-### 🚀 **Current Status**
-
-```dart
-while (alive) {
-    code();
-    learn();
-    build();
-    share();
-    sleep(); // optional
-}
-```
-
-</div>
 
 ---
 
-## 🎨 **GitHub Profile Views**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📊 **Profile Statistics**
-
-![Profile Views](https://komarev.com/ghpvc/?username=codexshivam&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
-### 🌟 **Repository Stats**
-
-[![GitHub stars](https://img.shields.io/github/stars/codexshivam?label=Total%20Stars&style=for-the-badge&color=FFD700)](https://github.com/codexshivam)
-[![GitHub forks](https://img.shields.io/github/forks/codexshivam?label=Total%20Forks&style=for-the-badge&color=00FF00)](https://github.com/codexshivam)
-[![GitHub followers](https://img.shields.io/github/followers/codexshivam?label=Followers&style=for-the-badge&color=00D4FF)](https://github.com/codexshivam)
-
-</div>
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎯 **Let's Build Something Amazing Together!**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ready+to+Collaborate;Open+to+New+Opportunities;Always+Learning+and+Growing;Building+the+Future+with+Code)](https://git.io/typing-svg)
-
-### 💬 **Get in Touch**
-
-[![Email](https://img.shields.io/badge/📧-people@shivamyadav.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:people@shivamyadav.com.np)
-[![LinkedIn](https://img.shields.io/badge/💼-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ycsxshivam)
-
----
-
-**⭐ Star my repositories if you find them helpful!**
-
-*Made with ❤️ by Shivam Yadav*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-# codexshivam
