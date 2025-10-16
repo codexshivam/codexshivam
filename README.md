@@ -14,11 +14,6 @@
 
 ## 🚀 **About Me**
 
-<div align="center">
-
-
-</div>
-
 ```dart
 class ShivamYadav {
   String name = "Shivam Yadav";
@@ -54,15 +49,11 @@ class ShivamYadav {
 
 ## 🛠️ **Tech Stack & Expertise**
 
-<div align="center">
-
 ### 🎯 **Core Technologies**
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ### 🌐 **Frontend Development**
 
@@ -74,10 +65,6 @@ class ShivamYadav {
 
 ### ⚙️ **Backend & Database**
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
 
 ### 🤖 **AI/ML & Data Science**
@@ -85,8 +72,6 @@ class ShivamYadav {
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
 ### ☁️ **Cloud & DevOps**
 
@@ -103,37 +88,17 @@ class ShivamYadav {
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-</div>
-
 ---
 
 ## 📊 **GitHub Statistics**
 
-<div align="center">
-
-
-### 🔥 **Streak Stats**
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexshivam&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
-
-</div>
-
-</div>
 
 ---
 
 ## 🚀 **Featured Projects**
 
-<div align="center">
-
-
-</div>
-
 ### 🎓 **Academy Intranet** - *Revolutionary Dating Platform*
-
-<div align="center">
 
 [![Academy Intranet](https://img.shields.io/badge/Academy-Intranet-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/codexshivam/academy)
 
@@ -142,8 +107,6 @@ class ShivamYadav {
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)](https://appwrite.io)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-
-</div>
 
 **🌟 Key Features:**
 - 🔐 **Smart Verification System** - College email & ID verification
@@ -156,8 +119,6 @@ class ShivamYadav {
 
 ### 🎵 **AuraTune** - *Musical DNA Analysis*
 
-<div align="center">
-
 [![AuraTune](https://img.shields.io/badge/AuraTune-Music%20Analysis-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://auratune.shivamyadav.com.np)
 
 **AI-Powered Musical Personality Analysis using NumPy & Pandas**
@@ -165,8 +126,6 @@ class ShivamYadav {
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-
-</div>
 
 **🧠 Technical Highlights:**
 - 🔢 **NumPy Implementation** - Vectorized operations for audio feature processing
@@ -178,11 +137,6 @@ class ShivamYadav {
 ---
 
 ## 🎯 **Current Focus & Learning**
-
-<div align="center">
-
-
-</div>
 
 ### 🔥 **Active Development**
 
@@ -213,11 +167,6 @@ graph LR
 
 ## 🏆 **Achievements & Recognition**
 
-<div align="center">
-
-
-</div>
-
 ### 🎖️ **Academic Excellence**
 
 - 🎓 **1st Semester CSE Student** at Chandigarh University
@@ -246,9 +195,6 @@ graph LR
 
 ## 🤝 **Connect With Me**
 
-<div align="center">
-
-
 ### 🌐 **Social Links**
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ycsxshivam)
@@ -261,8 +207,6 @@ graph LR
 
 [![Email](https://img.shields.io/badge/Email-people@shivamyadav.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:people@shivamyadav.com.np)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shivamyadav.com.np-00D4FF?style=for-the-badge&logo=about.me&logoColor=white)](https://shivamyadav.com.np)
-
-</div>
 
 ---
 
