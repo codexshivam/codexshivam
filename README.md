@@ -2,7 +2,7 @@
 
 ### 🎓 **Computer Science Engineering Student** | **Full-Stack Developer** | **AI/ML Enthusiast**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=false&vCenter=true&width=600&lines=Building+the+Future+with+Code;Creating+Amazing+User+Experiences;Mastering+Full-Stack+Development;Exploring+AI+and+Machine+Learning;Passionate+About+Innovation)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=false&vCenter=true&width=600&lines=Building+the+Future+with+Code;Creating+Amazing+User+Experiences;Mastering+Full-Stack+Development;Exploring+AI+and+Machine+Learning;Passionate+About+Innovation)](https://git.io/typing-svg) />
 
 ---
 
@@ -65,10 +65,7 @@ class ShivamYadav {
 
 ### 📱 **Mobile Development**
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 ---
 
