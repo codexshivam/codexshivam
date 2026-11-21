@@ -4,8 +4,13 @@ Founder & Chief Architect of [Revlet Platform](https://revlet.me), building unif
 
 #### Current Focus
 
-- **[revlet](https://github.com/codexshivam/revlet)** — Enterprise IT control plane unifying 1-second Cloudflare DNS automation with snapshot rollbacks, isolated multi-organization tenants, and passkey governance.
-- **[nidaniq](https://github.com/codexshivam/nidaniq)** — Vector-borne disease surveillance platform built for the Epidemiology and Disease Control Division (MoHP, Government of Nepal).
+**[Revlet Platform](https://github.com/codexshivam/revlet)**
+
+Revlet Platform is an enterprise cloud infrastructure control plane designed to replace fragmented IT, DNS, and email tooling with a single sovereign architecture. It unifies isolated multi-organization tenants, role-based access presets, FIDO2 passkey governance, authoritative 1-second Cloudflare DNS management with automatic pre-change snapshot rollbacks, and custom-domain business email through RevletMail—complete with shared team mailboxes, outbound DLP, Legal Holds, and SIEM audit logging.
+
+**[NidanIQ](https://github.com/codexshivam/nidaniq)**
+
+NidanIQ is a vector-borne disease surveillance platform engineered for the Epidemiology and Disease Control Division (EDCD) under the Ministry of Health and Population, Government of Nepal. Built to support national public health operations, it streamlines case reporting, epidemiological tracking, and early outbreak detection across regional health networks so decision-makers can respond faster with reliable field data.
 
 #### Connect
 
