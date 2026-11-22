@@ -2,31 +2,6 @@
 
 Maintainer and architect for the open-source project [Revlet Platform](https://revlet.me) — bringing custom-domain business email, effortless domain management, and modern security together in one clean workspace.
 
-#### Live Product Showcase
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://app.revlet.me">
-        <img src="https://revlet.me/brand/banners/revlet-opengraph-banner-1200x630.png" alt="Revlet Platform Console" />
-      </a>
-      <br />
-      <strong><a href="https://app.revlet.me">Revlet Control Plane</a></strong> · <a href="https://github.com/codexshivam/revlet">Source</a>
-      <br />
-      <sub>Multi-tenant DNS with instant rollback, RBAC & passkey security</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://mail.revlet.me">
-        <img src="https://revlet.me/brand/banners/revletmail-opengraph-banner-1200x630.png" alt="RevletMail Webmail" />
-      </a>
-      <br />
-      <strong><a href="https://mail.revlet.me">RevletMail</a></strong> · <a href="https://revlet.me/mail/">Learn More</a>
-      <br />
-      <sub>Custom-domain business email, shared inboxes & enforced MTA-STS</sub>
-    </td>
-  </tr>
-</table>
-
 #### Featured Work
 
 **[Revlet Platform](https://github.com/codexshivam/revlet)** · [Website](https://revlet.me) · [Live Console](https://app.revlet.me) · [Live Webmail](https://mail.revlet.me)
