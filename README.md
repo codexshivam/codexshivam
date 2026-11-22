@@ -14,4 +14,4 @@ NidanIQ is a vector-borne disease surveillance platform engineered for the Epide
 
 #### Connect
 
-[shivamyadav.com.np](https://shivamyadav.com.np) · [revlet.me](https://revlet.me) · [LinkedIn](https://www.linkedin.com/in/shivmco/) · [X](https://x.com/shivmco) · [me@shivamyadav.com.np](mailto:me@shivamyadav.com.np)
+[shivamyadav.com.np](https://shivamyadav.com.np) · [revlet.me](https://revlet.me) · [LinkedIn](https://www.linkedin.com/in/shivmco/) · [X](https://x.com/shivmco) · [hello@shivm.co](mailto:hello@shivm.co)
