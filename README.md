@@ -1,6 +1,6 @@
 ### Shivam Yadav
 
-Founder & Chief Architect of [Revlet Platform](https://revlet.me), building unified enterprise cloud infrastructure for authoritative global DNS, custom-domain business email ([RevletMail](https://mail.revlet.me)), multi-tenant governance, and FIDO2 passkey security. Supported by **Cloudflare for Startups**, **Google APAC Startups**, and **Amazon for Startups**.
+Founder & Chief Architect of [Revlet Platform](https://revlet.me), building unified enterprise cloud infrastructure for authoritative global DNS, custom-domain business email ([RevletMail](https://mail.revlet.me)), multi-tenant governance, and FIDO2 passkey security. Focused on sovereign, high-reliability cloud systems engineered for security, speed, and zero operational sprawl.
 
 #### Current Focus
 
